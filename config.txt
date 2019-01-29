@@ -1,0 +1,1 @@
+{"Input File": "../saeOcrDjango/test_images", "Checkpoint Path": "./models/model_150ksteps/", "Output Image Path": "./test_results/", "Output File": "./data.txt"}

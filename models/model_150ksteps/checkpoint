@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/haofucv-2/AIRBUS/EAST/east_icdar2015_resnet_v1_50_rbox_model/model.ckpt-150491"
+all_model_checkpoint_paths: "/home/haofucv-2/AIRBUS/EAST/east_icdar2015_resnet_v1_50_rbox_model/model.ckpt-146451"
+all_model_checkpoint_paths: "/home/haofucv-2/AIRBUS/EAST/east_icdar2015_resnet_v1_50_rbox_model/model.ckpt-147461"
+all_model_checkpoint_paths: "/home/haofucv-2/AIRBUS/EAST/east_icdar2015_resnet_v1_50_rbox_model/model.ckpt-148471"
+all_model_checkpoint_paths: "/home/haofucv-2/AIRBUS/EAST/east_icdar2015_resnet_v1_50_rbox_model/model.ckpt-149481"
+all_model_checkpoint_paths: "/home/haofucv-2/AIRBUS/EAST/east_icdar2015_resnet_v1_50_rbox_model/model.ckpt-150491"
