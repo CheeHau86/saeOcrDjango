@@ -235,8 +235,8 @@ def checkOCR(OCRdata):
 	
 	import os
 	os.environ['CUDA_VISIBLE_DEVICES'] = FLAGS.gpu_list
-	#tesseract_config = ('-l eng --oem 1 --psm 6')
-	tesseract_config = ('--tessdata-dir "C:/Program Files (x86)/Tesseract-OCR/tessdata" -l eng -oem 1 -psm 6')
+	tesseract_config = ('-l eng --oem 1 --psm 6')
+	#tesseract_config = ('--tessdata-dir "C:/Program Files (x86)/Tesseract-OCR/tessdata" -l eng -oem 1 -psm 6')
 	
 	# Read Config from JSON File
 	test_image_directory, checkpoint_path, output_image_path, output_filename = read_config("config.txt")
